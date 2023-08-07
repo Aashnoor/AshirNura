@@ -1,3 +1,4 @@
+![logo](https://github.com/Aashnoor/AshirNura/blob/main/Screenshot_20230807-075751.jpg)
 <h1 align="center">Hi 👋, I'm Ashir Nura</h1>
 <h3 align="center">Driven by a passion for technology and a desire to make a positive impact. Data analytics is my superpower to create a better future.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Aashnoor/AshirNura/assets/102871201/4231fadf-https://github.com/Aashnoor/AshirNura/assets/102871201/4231fadf-8bc8-4b4e-8982-390fd7fa8f338bc8-4b4e-8982-390fd7fa8f33">
