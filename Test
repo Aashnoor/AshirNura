@@ -81,7 +81,7 @@
         const slackDisplayNameElement = document.getElementById("slackDisplayName");
 
         // Replace 'YOUR_ACCESS_TOKEN' with your actual Slack access token
-        const accessToken = 'YOUR_ACCESS_TOKEN';
+        const accessToken = '941030';
         const slackApiUrl = 'https://slack.com/api/users.profile.get';
 
         // Make a request to Slack API
